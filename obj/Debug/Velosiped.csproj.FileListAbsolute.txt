@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Velosiped\Velosiped\bin\Debug\Velosiped.exe.config
+C:\Users\User\source\repos\Velosiped\Velosiped\bin\Debug\Velosiped.exe
+C:\Users\User\source\repos\Velosiped\Velosiped\bin\Debug\Velosiped.pdb
+C:\Users\User\source\repos\Velosiped\Velosiped\obj\Debug\Velosiped.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Velosiped\Velosiped\obj\Debug\Velosiped.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Velosiped\Velosiped\obj\Debug\Velosiped.exe
+C:\Users\User\source\repos\Velosiped\Velosiped\obj\Debug\Velosiped.pdb
